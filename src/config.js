@@ -50,7 +50,7 @@ export const config = {
   // ATENÇÃO: cada cliente PRECISA de chaves VAPID próprias.
   // Veja o README para gerar. Esta chave pública tem que ser
   // EXATAMENTE a mesma que está no plugin fk-webpush do WordPress.
-  vapidPublicKey: 'BJkVMeFXZlTXu1NVluEsU_UsaU8-4PdurEPLKNibXl1x0LbDc36BrNcx0OWx42FfvONlIcMGLwjD7dsnUn8JWDI',
+  vapidPublicKey: 'BLqee4d4Pip86OXOvnpT8546t7_hXnbpv8u-7zTEslcET62xs84B2Ck38ZlMt3NWPYiN5TgNHvA4r3haDteLBTM',
 
   // ─── Rodapé ──────────────────────────────────────────────────────
   agencyLogo: '/logo%20azul%20escuro.png',   // arquivo dentro de /public
