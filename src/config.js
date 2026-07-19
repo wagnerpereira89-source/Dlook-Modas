@@ -21,7 +21,7 @@ export const config = {
     // Ícone quadrado — notificações push
     icon: 'https://dlookmodas.com.br/wp-content/uploads/2026/07/notification-icon.png',
     // Letra de fallback caso a logo não carregue
-    fallbackLetter: 'A',
+    fallbackLetter: 'D',
   },
 
   // ─── Cores da marca ──────────────────────────────────────────────
