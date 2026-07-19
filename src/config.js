@@ -19,7 +19,7 @@ export const config = {
     // Logo completa — login, header das telas e etiquetas
     full: 'https://dlookmodas.com.br/wp-content/uploads/2026/04/logo-dlook-sombra-1.png',
     // Ícone quadrado — notificações push
-    icon: 'https://adorattab.com.br/wp-content/uploads/2026/05/LOGOTIPO-ADORATTA-SEM-FUNDO-33.png',
+    icon: 'https://dlookmodas.com.br/wp-content/uploads/2026/07/notification-icon.png',
     // Letra de fallback caso a logo não carregue
     fallbackLetter: 'A',
   },
